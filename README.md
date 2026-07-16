@@ -4,6 +4,8 @@ Project Overview
 
 This Business Intelligence project analyzes customer purchasing behavior, sales performance, and product trends using SQL and Power BI. The objective is to transform raw business data into actionable insights that support strategic business decisions.
 ________________________________________
+
+
 Tools Used
 
 •	MySQL 
